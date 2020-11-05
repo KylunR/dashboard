@@ -1,0 +1,40 @@
+.navbar_avatar {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.nav-link {
+    font-size: 20px;
+    margin: 5px;
+    font-weight: bold;
+}
+
+.carousel {
+    padding: 25px;
+    background-color: lightgray;
+}
+
+.carousel-inner {   
+    border-radius: 10px;
+    box-shadow: 0 0 3px 3px darkgray;
+}
+
+.carousel-indicators {
+    margin-bottom: 50px;
+}
+
+.card_section {
+    background-color: lightgray;
+    padding: 50px 0px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    align-items: center;
+    justify-items: center;
+}
+
+.card {
+    border: 10px solid white;
+    box-shadow: 0 0 3px 3px darkgray;
+}
