@@ -48,6 +48,7 @@ body {
 }
 
 .card {
+    margin: 0 10px;
     min-height: 400px;
     width: 800px;
     border: 10px solid white;
